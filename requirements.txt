@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+streamlit
+python-dotenv
+pypdf
+faiss-cpu
